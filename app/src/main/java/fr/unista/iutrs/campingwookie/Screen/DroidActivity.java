@@ -1,4 +1,4 @@
-package fr.unista.iutrs.campingwookie;
+package fr.unista.iutrs.campingwookie.Screen;
 
 /**
  * Created by Raphaël on 16/01/2015.
@@ -9,6 +9,8 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.Window;
 import android.view.WindowManager;
+
+import fr.unista.iutrs.campingwookie.Views.MainGamePanel;
 
 public class DroidActivity extends Activity {
     /** Called when the activity is first created. */

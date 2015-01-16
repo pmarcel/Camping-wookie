@@ -1,4 +1,4 @@
-package fr.unista.iutrs.campingwookie;
+package fr.unista.iutrs.campingwookie.Controllers;
 
 /**
  * Created by Raphaël on 16/01/2015.
@@ -6,6 +6,8 @@ package fr.unista.iutrs.campingwookie;
 
 import android.util.Log;
 import android.view.SurfaceHolder;
+
+import fr.unista.iutrs.campingwookie.Views.MainGamePanel;
 
 public class MainThread extends Thread {
 

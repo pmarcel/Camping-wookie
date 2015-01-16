@@ -1,4 +1,4 @@
-package fr.unista.iutrs.campingwookie;
+package fr.unista.iutrs.campingwookie.Views;
 
 /**
  * Created by Raphaël on 16/01/2015.
@@ -11,6 +11,8 @@ import android.util.Log;
 import android.view.MotionEvent;
 import android.view.SurfaceHolder;
 import android.view.SurfaceView;
+
+import fr.unista.iutrs.campingwookie.Controllers.MainThread;
 
 
 public class MainGamePanel extends SurfaceView implements
